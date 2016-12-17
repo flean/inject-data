@@ -1,5 +1,10 @@
 # Change Log
 
+### v2.0.1
+2016-Dec-16
+* Patched Fix for TypeError (crashes server)
+
+
 ### v2.0.0
 2016-Feb-19
 
